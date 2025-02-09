@@ -6,7 +6,7 @@ permalink: /license/
 
 ## Instructional Material
 
-All geohackweek instructional material is made available under the [Creative Commons Attribution license][cc-by-human]. The following is a human-readable
+All instructional material is made available under the [Creative Commons Attribution license][cc-by-human]. The following is a human-readable
 summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license][cc-by-legal].
 
 You are free:
@@ -19,16 +19,7 @@ for any purpose, even commercially.
 The licensor cannot revoke these freedoms as long as you follow the
 license terms.
 
-Under the following terms:
-
-* **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © geohackweek and, where
-  practical, linking to http://geohackweek.github.io/), provide a [link to the
-  license][cc-by-human], and indicate if changes were made. You may do
-  so in any reasonable manner, but not in any way that suggests the
-  licensor endorses you or your use.
-
-**No additional restrictions**---You may not apply legal terms or
+**No restrictions**---You may not apply legal terms or
 technological measures that legally restrict others from doing
 anything the license permits.  With the understanding that:
 
@@ -80,4 +71,3 @@ of this repository, and other repositories in [the geohackweek github website][g
 [cc-by-legal]: https://creativecommons.org/licenses/by/4.0/legalcode
 [mit-license]: http://opensource.org/licenses/mit-license.html
 [osi]: http://opensource.org
-[ghw-github]: http://github.com/geohackweek
