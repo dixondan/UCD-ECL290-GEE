@@ -10,14 +10,16 @@ kind: "lesson"
 title: "Google Earth Engine"
 
 # Repository URL (without trailing slash).
-repo: https://github.com/geohackweek/GoogleEarthEngine
+#repo: https://github.com/geohackweek/GoogleEarthEngine
+repo: https://github.com/dixondan/UCD-ECL290-GEE
 
 # Root URL below username.github.io domain, with leading slash but no trailing slash.
 # For example, for 'https://geohackweek.github.io/lesson-example', use '/lesson-example'.
-root: "/GoogleEarthEngine"
+#root: "/GoogleEarthEngine"
+root: "/UCD-ECL290-GEE"
 
 # Contact email address.
-email: arendta@uw.edu
+email: djdixon@ucdavis.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -39,7 +41,7 @@ start_time: 540
 
 # Specify that things in the episodes collection should be output.
 collections:
-  episodes:
+  modules:
     output: true
     permalink: /:path/
   extras:
