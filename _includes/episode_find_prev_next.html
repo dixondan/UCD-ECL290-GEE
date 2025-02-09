@@ -1,14 +1,14 @@
 {% comment %}
-    Find previous and next episodes (if any).
+    Find previous and next modules (if any).
 {% endcomment %}
-{% for episode in site.episodes  %}
-  {% if episode.url == page.url %}
+{% for module in site.modules  %}
+  {% if module.url == page.url %}
     {% unless forloop.first %}
-      {% assign prev_episode = prev %}
+      {% assign prev_module = prev %}
     {% endunless %}
     {% unless forloop.last %}
-      {% assign next_episode = site.episodes[forloop.index] %}
+      {% assign next_module = site.modules[forloop.index] %}
     {% endunless %}
   {% endif %}
-  {% assign prev = episode %}
+  {% assign prev = module %}
 {% endfor %}
