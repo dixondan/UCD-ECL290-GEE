@@ -17,7 +17,7 @@ repo: https://github.com/dixondan/UCD-ECL290-GEE
 root: "/UCD-ECL290-GEE"
 
 # Contact email address.
-email: arendta@uw.edu
+email: djdixon@ucdavis.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -28,18 +28,19 @@ is_production: true
 
 # Sites.
 ghw_site: "https://geohackweek.github.io"
-ghw_github: "https://github.com/geohackweek"
-swc_site: "https://software-carpentry.org"
-template_repo: "https://github.com/swcarpentry/styles"
-example_repo: "https://github.com/swcarpentry/lesson-example"
-example_site: "https://swcarpentry.github.com/lesson-example"
+ecl290_site: "https://dixondan.github.io/UCD-ECL290-GEE"
+#ghw_github: "https://github.com/geohackweek"
+#swc_site: "https://software-carpentry.org"
+#template_repo: "https://github.com/swcarpentry/styles"
+#example_repo: "https://github.com/swcarpentry/lesson-example"
+#example_site: "https://swcarpentry.github.com/lesson-example"
 
 # Start time in minutes (540 is 09:00 am)
-start_time: 540
+#start_time: 540
 
 # Specify that things in the episodes collection should be output.
 collections:
-  episodes:
+  modules:
     output: true
     permalink: /:path/
   extras:
@@ -49,9 +50,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: episodes
+      type: modules
     values:
-      layout: episode
+      layout: module
 
 # Files and directories that are not to be copied.
 exclude:
