@@ -7,7 +7,7 @@ encoding: utf-8
 kind: "lesson"
 
 # Overall title for pages.
-title: "Google Earth Engine"
+title: "UCD-ECL290-GEE"
 
 # Repository URL (without trailing slash).
 #repo: https://github.com/geohackweek/GoogleEarthEngine
