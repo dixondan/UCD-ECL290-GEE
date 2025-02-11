@@ -42,7 +42,8 @@ ecl290_site: "https://dixondan.github.io/UCD-ECL290-GEE"
 collections:
   modules:
     output: true
-    permalink: /:path/
+    #permalink: /:path/
+    permalink: /modules/:path/
   extras:
     output: true
 
