@@ -34,9 +34,6 @@ Not sure if you have access? Use [this link](https://code.earthengine.google.com
 Google Earth Engine allows you to have shared group folders/repositories for scripts. We've organized the code presented in this tutorial this way. You will be given read access to the shared code repository. Please follow these steps:
 
   - Join the UCD-ECL290 Google Earth Engine repository <a href="https://code.earthengine.google.com/?accept_repo=users/djdixongee/UCD-ECL290" target="_blank">https://code.earthengine.google.com/?accept_repo=users/djdixongee/UCD-ECL290</a> . 
-  - Accept the shared repository by clicking this link:
-  <a href="https://code.earthengine.google.com/?accept_repo=users/victorialy/geohackweek2019
-" target="_blank">https://code.earthengine.google.com/?accept_repo=users/victorialy/geohackweek2019</a>
   - In the code editor, go to the **Scripts tab** in the top left panel, scroll down and expand the "Reader" section. A directory called *users/djdixongee/UCD-ECL290* should appear with read-only versions of the full scripts from each module.
 
 Test Link: try running the script users/djdixongee/UCD-ECL290/mod_01/00_start-up
