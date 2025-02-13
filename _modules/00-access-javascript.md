@@ -1,5 +1,5 @@
 ---
-title: "GEE Access and JavaScript Tips"
+title: "Week 1: GEE Access and JavaScript Tips"
 teaching: 0
 exercises: 0
 questions:
