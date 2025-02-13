@@ -105,7 +105,7 @@ var myHelloFunction = function(string) {
 print(myHelloFunction('world'));
 {% endhighlight %}
 
-
+  
 #### Other JavaScript Resources
 JavaScript uses camelCase. JavaScript (according to W3 academy) is easy to learn. Like other programming languages, you can use style guides to learn how to write standard, reproducible (marketable!) code.
 
