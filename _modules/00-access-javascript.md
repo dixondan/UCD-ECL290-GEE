@@ -121,5 +121,4 @@ Dana Tomlin has also created a short <a href="https://drive.google.com/file/d/0B
 <img src="../fig/00_gif1_temp.gif" border = "10">
 <br><br>
 
-If you're interested in making gif visualizations with EE data ^^ check this [tutorial]
-(https://developers.google.com/earth-engine/guides/ic_visualization)
+If you're interested in making gif visualizations with EE data ^^ check this [tutorial](https://developers.google.com/earth-engine/guides/ic_visualization)
