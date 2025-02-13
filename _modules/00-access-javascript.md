@@ -115,5 +115,5 @@ Dana Tomlin has also created a short <a href="https://drive.google.com/file/d/0B
   
 
 <br>
-<img src="../fig/00_spaceland.png" border = "10">
+<img src="../fig/00_gif1_temp.gif" border = "10">
 <br><br>
