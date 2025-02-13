@@ -8,10 +8,13 @@ questions:
 objectives:
 - Gain access to Google Earth Engine
 - Have a JavaScript resource
+
 keypoints:
-- "Anyone can sign up for Google Earth Engine, just apply to be a trusted tester."
+- "Earth Engine is free for noncommercial use"
 - "The Code Editor is a user friendly access point for Earth Engine that uses the JavaScript IDE."
-- " JavaScript is a programming language that is also widely used in web development."
+- "JavaScript is a programming language that is also widely used in web development."
+
+
 ---
 # Prerequisites
 
